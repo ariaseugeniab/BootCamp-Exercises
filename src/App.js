@@ -12,6 +12,7 @@ import Multiplicar from "./components/Multiplicar";
 function App() {
 	return (
 		<div className="App">
+			<h1>Bootcamp Exercises</h1>
 			<p>Ejercicio 1</p>
 			<Welcome name="Eugenia" />
 
